@@ -1,4 +1,4 @@
-<h1 align="center">VOLK MENU</h1>
+<h1 align="center">G-Host</h1>
 <p align="center"><code>Made in Germany</code></p>
 <br>
 <p align="center">
