@@ -1,4 +1,4 @@
-<h1 align="center">KOYA</h1>
+<h1 align="center">Lunar Reshades</h1>
 <p align="center"><code>Made in Germany</code></p>
 <br>
 <p align="center">
@@ -13,3 +13,4 @@
 </p>
 
 
+<p align="center"><small><code>I'm not a part of reshade.me</code></small></p>
