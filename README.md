@@ -3,13 +3,12 @@
 <br>
 <p align="center">
   <samp>
-    2033
-</samp><br>
+</samp>
 </p>
 <br>
 
 <p align="center">
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=luyatools&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=reshades&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
 </p>
 
 
