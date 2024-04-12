@@ -1,12 +1,9 @@
-<h1 align="center">Opiv</h1>
-<br>
-<p align="center">
-  
-</p>
-<br>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=opiv&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
-</p>
+| Project Name | Version     | Description                | Status |
+| :-------- | :------- | :------------------------- || :----- |
+| `Soup` | `1.0` | A python libary for easier python shortcuts | ⚠️ Unreleased |
+| `FXMGR` | `1.0` | Program to import After Effects Presets more easily | ⚠️ Unreleased |
+
+![views](https://api.visitorbadge.io/api/VisitorHit?user=opiv&countColorcountColor&countColor=%230095FF")
 
 
 
