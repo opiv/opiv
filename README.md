@@ -5,4 +5,4 @@
 
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=opiv&countColor=%23847eff)
-![Donate](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/opivdev)
+[![Donate]([image_url](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white))]([link_url](https://ko-fi.com/opivdev))
