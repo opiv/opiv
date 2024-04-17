@@ -1,6 +1,6 @@
 | Project Name | Version     | Description                | Status |
 | :----------- | :---------- | :------------------------- | :----- |
-| `Soup` | `0` | Python-Based browser | ⚠️ Unreleased |
+| `Soup` | `0` | Screenshot Tool | ⚠️ Unreleased |
 | `FXMGR` | `0` | Program to import After Effects Presets more easily | ⚠️ Unreleased |
 
 
