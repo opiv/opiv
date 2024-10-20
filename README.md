@@ -9,4 +9,4 @@
 </div>
 
 > [!NOTE]
-> im pretty much inactive.
+> Please follow me if you like my projects <3
