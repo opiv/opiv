@@ -1,4 +1,7 @@
 
+## Currently working on ARCHIVE Software
+
+
 
 <p align="center"><img src="https://api.visitorbadge.io/api/combined?path=opiv&countColor=%23191919"></p>
 
@@ -8,5 +11,9 @@
   </a>
 </div>
 
-> [!NOTE]
+<div align="center">
+
+> Currently working on <b>Macbook Air M4</b> <br>
 > Please follow me if you like my projects <3
+
+</div>
